@@ -1,0 +1,24 @@
+.container{
+	width: 1100px;
+}
+.dt{
+	text-align: center;
+}
+.dt p{
+	margin-top: 100px;
+	margin-bottom: 70px;
+}
+p a{
+	color: #999999;
+	margin-right: 20px;
+}
+#foot{
+	background: #ecf0f3;
+}
+#foot a{
+	line-height: 100px;
+	color: #8a7866;
+}
+#foot p{
+	color: #999999;
+}
